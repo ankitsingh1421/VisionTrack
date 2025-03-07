@@ -1,8 +1,6 @@
-# PathForge - Interactive Developer Learning Platform
+# visiontrack - Interactive Developer Learning Platform
 
-![Screenshot 2024-11-25 233711](https://github.com/user-attachments/assets/742be1a6-4ec4-442d-8139-c24963ab7946)
-
-PathForge is a modern, interactive learning platform designed to help developers master various technology stacks through structured learning paths and hands-on experience.
+visiontrack is a modern, interactive learning platform designed to help developers master various technology stacks through structured learning paths and hands-on experience.
 
 ## 🚀 Features
 
@@ -48,8 +46,8 @@ PathForge is a modern, interactive learning platform designed to help developers
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/pathforge.git
-cd pathforge
+git clone https://github.com/yourusername/visiontrack.git
+cd visiontrack
 ```
 
 2. Install dependencies
@@ -71,7 +69,7 @@ yarn dev
 ## 🎯 Project Structure
 
 ```
-pathforge/
+visiontrack/
 ├── app/                    # Next.js app directory
 │   ├── components/        # React components
 │   ├── roadmaps/         # Learning path pages
@@ -82,7 +80,7 @@ pathforge/
 
 ## 🎨 Design Philosophy
 
-PathForge is built with these core principles:
+visiontrack is built with these core principles:
 - **Interactive Learning**: Learn by doing
 - **Clear Progression**: Structured learning paths
 - **Modern Design**: Clean, responsive UI
@@ -107,8 +105,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or feedback, please:
 - Open an issue
 - Join our Discord community
-- Follow us on Twitter @PathForge
 
 ---
 
-**Note**: PathForge is currently in beta. Some features may be incomplete or subject to change.
+**Note**: visiontrack is currently in beta. Some features may be incomplete or subject to change.

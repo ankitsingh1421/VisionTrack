@@ -240,14 +240,14 @@ export default function HomeContent() {
                     <FiMap className="w-5 h-5" />
                     <span>Explore Roadmaps</span>
                   </Link>
-                  {/* <Link
+                  <Link
                     href="/auth/signin"
                     className="flex items-center space-x-2 px-4 py-3 text-primary hover:bg-gray-medium transition-colors"
                     onClick={() => setIsOpen(false)}
                   >
                     <FiCheck className="w-5 h-5" />
                     <span>Get Started</span>
-                  </Link> */}
+                  </Link>
                   {/* <Link
                     href="/challenges"
                     className="flex items-center space-x-2 px-4 py-3 text-primary hover:bg-gray-medium transition-colors"
@@ -328,12 +328,12 @@ export default function HomeContent() {
                   <div className="absolute inset-0 -z-10 bg-gradient-to-r from-primary to-accent opacity-0 group-hover:opacity-20 transition-opacity duration-300"></div>
                 </Link>
               </motion.div>
-              <motion.div
+              {/* <motion.div
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
                 className="inline-block"
               >
-                {/* <Link
+                <Link
                   href="/auth/signin"
                   className="relative group inline-flex items-center px-8 py-4 bg-secondary text-primary border-2 border-primary rounded-full text-lg font-semibold shadow-lg hover:shadow-xl hover:bg-primary hover:text-secondary transition-all duration-300 ease-out overflow-hidden"
                   onClick={(e) => {
@@ -345,8 +345,8 @@ export default function HomeContent() {
                   <span className="relative z-10">Get Started</span>
                   <FiCheck className="ml-2 w-5 h-5 transform group-hover:scale-110 transition-transform duration-300 ease-out relative z-10" />
                   <div className="absolute inset-0 -z-10 bg-gradient-to-r from-primary to-accent opacity-0 group-hover:opacity-20 transition-opacity duration-300"></div>
-                </Link> */}
-              </motion.div>
+                </Link>
+              </motion.div> */}
             </div>
           </motion.div>
           
